@@ -32,9 +32,9 @@ def enviar_email():
 
     msg = email.message.Message()
     msg['Subject'] = 'Relatório das Lojas'
-    msg['From'] = 'lekomoura19@gmail.com'
-    msg['To'] = 'valmoura29@gmail.com'
-    password = 'GetJinxed006'
+    msg['From'] = 'emailqueenvia'
+    msg['To'] = 'emailquerecebe'
+    password = 'senhadealgumemail'
     msg.add_header('Content-Type', 'text/html')
     msg.set_payload(corpo_email)
 

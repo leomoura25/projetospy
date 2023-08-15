@@ -1,4 +1,0 @@
-# BotCity
-
-Auto Bot
-

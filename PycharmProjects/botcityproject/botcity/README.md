@@ -1,4 +1,0 @@
-# botcity
-
-primeiro projeto botcity
-
